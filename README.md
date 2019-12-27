@@ -1,2 +1,8 @@
 # Aiproject1
-My first Ai project using tensorflow to be uploaded
+School AI project
+team memebers :
+1.Ishan goyal
+2.Dhiren malik
+3.Vedehi malik
+4.Tanush jain
+
